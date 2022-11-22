@@ -1,0 +1,7 @@
+{
+    "Not Found":["Prueba a reformular la pregunta","notfound.jpg"],
+    "JAVA" : ["JAVA es un lenguaje de programación.","java.jpg"],
+    "PYTHON" : ["PYTHON es un lenguaje de programación to guapo","python.png"],
+    "JAVASCRIPT" : ["JAVASCRIPT es un lenguaje de programación que suele ser ejecutado en el cliente","javascript.png"],
+    "PHP": ["PHP es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web. Fue creado inicialmente por el programador danés-canadiense Rasmus Lerdorf en 1994","php.png"]
+}
